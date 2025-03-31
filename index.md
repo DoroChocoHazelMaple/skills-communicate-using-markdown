@@ -1,3 +1,18 @@
+## Adding some code blocks
+### Code blocks can render differently depending on the language:
+
+```
+javascript 
+var myVar = "Hallo Welt!";
+```
+
+``` 
+$ git init 
+Leeres Git-Repository in /Users/skills/Projects/recipe-repository/.git/ initialisiert 
+```
+
+## Adding a picture by link
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
