@@ -1,3 +1,11 @@
+## Adding a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
 ## Adding some code blocks
 ### Code blocks can render differently depending on the language:
 
